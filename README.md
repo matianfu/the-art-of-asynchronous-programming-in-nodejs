@@ -5,10 +5,10 @@ This work is licence under Creative Commons 4.0 Attribution. A full copy of the 
 
 https://creativecommons.org/licenses/by/4.0/legalcode
 
-Planned TOC
+**Planned TOC**
 
-01 Introduction
-02 Models
-03 Process Model
-04 State Model
-05 Concurrency
++ 01 Introduction
++ 02 Models
++ 03 Process Model
++ 04 State Model
++ 05 Concurrency
